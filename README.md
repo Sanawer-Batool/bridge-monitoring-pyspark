@@ -48,7 +48,6 @@ This project implements an end-to-end streaming ETL pipeline for bridge monitori
 
 - **Apache Spark 3.5.0**: Core streaming engine
 - **PySpark Structured Streaming**: Streaming API
-- **Parquet**: Columnar storage format
 - **Python 3.11**: Data generator and orchestration
 
 ---
