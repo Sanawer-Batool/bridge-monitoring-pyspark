@@ -1,0 +1,6 @@
+bridge_id,bridge_name,location,installation_date,bridge_type,length_meters,construction_year
+bridge_001,Golden Gate Bridge,San Francisco,2020-01-15,Suspension,2737,1937
+bridge_002,Brooklyn Bridge,New York,2019-06-22,Suspension,1825,1883
+bridge_003,London Bridge,London,2021-03-10,Arch,283,1973
+bridge_004,Sydney Harbour Bridge,Sydney,2020-11-05,Arch,1149,1932
+bridge_005,Tower Bridge,London,2022-02-18,Bascule,244,1894
